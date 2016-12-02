@@ -16,6 +16,7 @@ Tests
 
 By downloading the UnlockTheBox.zip, unzip and launch and UnlockTheBoxDemo in coderunner on mac, then run the UnlockTheBoxDemo to test the game.
 
+******Made some modifications but didn't want to change my screenshots. See UnlockTheBox.java in the UnlockTheBox.zip.******
 
 Code Example
 
