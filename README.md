@@ -31,4 +31,5 @@ Code Example
 
 
 How it Looks
-![alt tag](https://github.com/zachiroz89/UnlockTheBox/blob/master/Screen%20Shot%202016-12-02%20at%202.37.17%20PM.png)
+
+![alt tag](https://github.com/zachiroz89/UnlockTheBox/blob/master/Screen%20Shot%202016-12-02%20at%202.38.35%20PM.png)
