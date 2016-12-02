@@ -6,8 +6,7 @@ Synopsis
 This is the my final project for JAVA in school. They ask me to create a program of my own choosing. I chose to make a simple fast game to play. 
 
 Code Example
-//public UnlockTheBox(){
-
+{
 //A program for a fast simple game. Click to move a character, get key to unlock a chest, all displayed on a gameboard.
 //Created and Modified by Zach Iroz 12/2/2016
 
@@ -251,7 +250,7 @@ public class UnlockTheBox extends JFrame implements ActionListener {
 	}
 }
 
-
+}
 Motivation
 
 I enjoy fast simple games and I wanted to focus on the GUI of Java. I also wanted something that would fit within my schools alotted time frame to complete the project of 15 hours. I completed the project in less time so I could have maybe made it slightly more complex.
