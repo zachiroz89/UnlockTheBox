@@ -19,8 +19,8 @@ By downloading the UnlockTheBox.zip, unzip and launch and UnlockTheBoxDemo in co
 
 Code Example
 
-![alt tag](UnlockTheBox/Screen Shot 2016-12-02 at 2.14.32 PM.png)
-![alt tag](UnlockTheBox/Screen Shot 2016-12-02 at 2.20.38 PM.png)
+![alt tag](https://github.com/zachiroz89/UnlockTheBox/blob/master/Screen%20Shot%202016-12-02%20at%202.14.32%20PM.png)
+![alt tag](https://github.com/zachiroz89/UnlockTheBox/blob/master/Screen%20Shot%202016-12-02%20at%202.20.38%20PM.png)
 
 	public UnlockTheBox() {
 		//add items to frames, panes, labels, buttons etc. and set dimensions, colors, images etc.
