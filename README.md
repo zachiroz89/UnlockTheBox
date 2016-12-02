@@ -19,40 +19,9 @@ By downloading the UnlockTheBox.zip, unzip and launch and UnlockTheBoxDemo in co
 
 Code Example
 
+![alt tag](UnlockTheBox/Screen Shot 2016-12-02 at 2.14.32 PM.png)
+![alt tag](UnlockTheBox/Screen Shot 2016-12-02 at 2.20.38 PM.png)
 
-//Declare class, extention and Implementation
-
-public class UnlockTheBox extends JFrame implements ActionListener {
-	//Declare Variables, Panes, Panels, Images, Buttons, Menu bars and options and Labels,
-	final int ROWS = 5;
-	final int COLS = 5;
-	final int GAP = 2;
-	final int NUM = ROWS * COLS;
-	int x;
-	boolean hasKey=false;
-	JPanel pane1 = new JPanel(new BorderLayout());
-	JPanel pane2 = new JPanel(new GridLayout(ROWS, COLS, GAP, GAP));
-	JPanel[] panelArray = new JPanel[NUM];
-	JSplitPane splitPane = new JSplitPane(JSplitPane.VERTICAL_SPLIT, pane1, pane2);
-	ImageIcon characterIcon;
-	ImageIcon chestIcon;
-	ImageIcon keyIcon;
-	JLabel characterLabel;
-	JLabel chestLabel;
-	JLabel keyLabel;
-	JButton nb = new JButton("∆");
-	JButton sb = new JButton("v");
-	JButton eb = new JButton("»");
-	JButton wb = new JButton("«");
-	JButton cb = new JButton("Get Key to Unlock Box");
-	int charLocation = 0;
-	int chestLocation = 1;
-	int keyLocation =2;
-	JMenuBar mainBar = new JMenuBar();
-	JMenu menu1 = new JMenu("File");
-	JMenuItem newGame = new JMenuItem("New Game");
-	
-	
 	public UnlockTheBox() {
 		//add items to frames, panes, labels, buttons etc. and set dimensions, colors, images etc.
 		super("Unlock The Box (click to move)");
