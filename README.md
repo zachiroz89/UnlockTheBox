@@ -9,7 +9,7 @@ This is the my final project for JAVA in school. They ask me to create a program
 
 Motivation
 
-I enjoy fast simple games and I wanted to focus on the GUI of Java. I also wanted something that would fit within my schools alotted time frame to complete the project of 15 hours. I completed the project in less time so I could have maybe made it slightly more complex.
+I enjoy fast simple games and I wanted to focus on the GUI of Java. I also wanted something that would fit within my schools alotted time frame of 15 hours to complete the project. I completed the project in less time so I could have maybe made it slightly more complex.
 
 
 Tests
