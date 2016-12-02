@@ -5,6 +5,18 @@ Synopsis
 
 This is the my final project for JAVA in school. They ask me to create a program of my own choosing. I chose to make a simple fast game to play. 
 
+
+
+Motivation
+
+I enjoy fast simple games and I wanted to focus on the GUI of Java. I also wanted something that would fit within my schools alotted time frame to complete the project of 15 hours. I completed the project in less time so I could have maybe made it slightly more complex.
+
+
+Tests
+
+By downloading the UnlockTheBox.zip, unzip and launch and UnlockTheBoxDemo in coderunner on mac, then run the UnlockTheBoxDemo to test the game.
+
+
 Code Example
 
 
@@ -250,13 +262,3 @@ public class UnlockTheBox extends JFrame implements ActionListener {
 		pane2.setVisible(true);
 	}
 }
-
-
-Motivation
-
-I enjoy fast simple games and I wanted to focus on the GUI of Java. I also wanted something that would fit within my schools alotted time frame to complete the project of 15 hours. I completed the project in less time so I could have maybe made it slightly more complex.
-
-
-Tests
-
-By downloading the UnlockTheBox.zip, unzip and launch and UnlockTheBoxDemo in coderunner on mac, then run the UnlockTheBoxDemo to test the game.
