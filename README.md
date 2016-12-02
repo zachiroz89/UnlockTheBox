@@ -21,41 +21,7 @@ Code Example
 
 ![alt tag](https://github.com/zachiroz89/UnlockTheBox/blob/master/Screen%20Shot%202016-12-02%20at%202.14.32%20PM.png)
 ![alt tag](https://github.com/zachiroz89/UnlockTheBox/blob/master/Screen%20Shot%202016-12-02%20at%202.20.38%20PM.png)
-
-	public UnlockTheBox() {
-		//add items to frames, panes, labels, buttons etc. and set dimensions, colors, images etc.
-		super("Unlock The Box (click to move)");
-		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setJMenuBar(mainBar);
-		mainBar.add(menu1);
-		menu1.add(newGame);
-		add(splitPane);
-		splitPane.setOneTouchExpandable(false);
-		splitPane.setDividerLocation(150);
-		Dimension minimumSize = new Dimension(200, 200);
-		pane1.setMinimumSize(minimumSize);
-		pane2.setSize(400, 400);
-		
-		//create image for character and scales to fit pane
-		characterIcon = new ImageIcon("Rigby_character.png");
-		Image characterImage = characterIcon.getImage();
-		characterImage = characterImage.getScaledInstance(50, 75, java.awt.Image.SCALE_SMOOTH);
-		characterIcon = new ImageIcon(characterImage);
-		characterLabel = new JLabel(characterIcon);
-		
-		//create image for chest and scales to fit pane
-		chestIcon = new ImageIcon("chest-treasure-box-container-wooden-pirate-closed.png");
-		Image chestImage = chestIcon.getImage();
-		chestImage = chestImage.getScaledInstance(75, 75, java.awt.Image.SCALE_SMOOTH);
-		chestIcon = new ImageIcon(chestImage);
-		chestLabel = new JLabel(chestIcon);
-		
-		//create image for key and scales to fit pane
-		keyIcon = new ImageIcon("21606_MAJOR_KEY_Necklace.png");
-		Image keyImage = keyIcon.getImage();
-		keyImage = keyImage.getScaledInstance(25, 25, java.awt.Image.SCALE_SMOOTH);
-		keyIcon = new ImageIcon(keyImage);
-		keyLabel = new JLabel(keyIcon);
+![alt tag](https://github.com/zachiroz89/UnlockTheBox/blob/master/Screen%20Shot%202016-12-02%20at%202.26.54%20PM.png)
 
 		//initialize panel array
 		for(x = 0; x<NUM; ++x){
