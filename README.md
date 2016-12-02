@@ -6,6 +6,7 @@ Synopsis
 This is the my final project for JAVA in school. They ask me to create a program of my own choosing. I chose to make a simple fast game to play. 
 
 Code Example
+
 //A program for a fast simple game. Click to move a character, get key to unlock a chest, all displayed on a gameboard.
 //Created and Modified by Zach Iroz 12/2/2016
 
