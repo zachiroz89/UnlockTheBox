@@ -16,7 +16,9 @@ Tests
 
 By downloading the UnlockTheBox.zip, unzip and launch and UnlockTheBoxDemo in coderunner on mac, then run the UnlockTheBoxDemo to test the game.
 
-******Made some modifications but didn't want to change my screenshots. See UnlockTheBox.java in the UnlockTheBox.zip.******
+******Made some modifications but didn't want to change my screenshots. See UnlockTheBox.java in the UnlockTheBox.zip.
+This was in order to keep the program from opening a new window every time you clicked new game. Instead it resets everything back to defaults essentially and re-shuffles the panes.
+******
 
 Code Example
 
