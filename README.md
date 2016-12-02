@@ -20,20 +20,6 @@ By downloading the UnlockTheBox.zip, unzip and launch and UnlockTheBoxDemo in co
 Code Example
 
 
-//A program for a fast simple game. Click to move a character, get key to unlock a chest, all displayed on a gameboard.
-//Created and Modified by Zach Iroz 12/2/2016
-
-//Declare necessary imports to run program
-import java.awt.event.*;
-import javax.swing.*;
-import java.awt.*;
-import java.awt.image.*;
-import java.awt.BorderLayout.*;
-import java.awt.Color;
-import java.lang.Object;
-import java.io.File;
-import javax.imageio.ImageIO;
-
 //Declare class, extention and Implementation
 
 public class UnlockTheBox extends JFrame implements ActionListener {
